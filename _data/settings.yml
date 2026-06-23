@@ -3,7 +3,7 @@
 
 menu:
 - {name: '3D', url: ''}
-- {name: 'Drawing',     url: 'blog'}
+- {name: 'Drawing',     url: 'drawing'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
