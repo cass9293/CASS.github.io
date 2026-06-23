@@ -14,8 +14,9 @@ projects:
 - {name: 'Autumn Embers',   url: 'proj-1'}
 - {name: 'Killzone Light',   url: 'proj-2'}
 - {name: 'Piween', url: 'proj-3'}
+- {name: 'Ducky', url: 'proj-4'}
 - {name: 'Capsule 341',  url: 'proj-5'}
-- {name: 'Generated Love',  url: 'proj-4'}
+- {name: 'Generated Love',  url: 'proj-6'}
 
 
 #-------------------------------
