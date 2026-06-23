@@ -1,5 +1,5 @@
 ---
-layout: blog
-title: Blog
-permalink: /blog
+layout: Drawing
+title: Drawing
+permalink: /drawing
 ---
